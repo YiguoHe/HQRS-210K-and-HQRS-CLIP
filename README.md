@@ -9,6 +9,8 @@ This is the repository of th paper "Improving Vision-Language Foundation Models 
 
 <img width="1353" height="1189" alt="image" src="https://github.com/user-attachments/assets/d0e8bc2e-945b-4a97-b6dc-63a875c998b0" />
 
+<img width="1377" height="588" alt="image" src="https://github.com/user-attachments/assets/7e2821d5-619c-42fa-a68d-1f52c3eae524" />
+
 Our code, dataset and models have been released here:
 
 
