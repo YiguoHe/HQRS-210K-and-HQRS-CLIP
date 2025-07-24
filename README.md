@@ -1,6 +1,6 @@
 # HQRS-IT-210K-and-HQRS-CLIP
 
-This is the repository of th paper "Improving Vision-Language Foundation Models for Remote Sensing via MLLMs and LLMs-Based High-Quality Image-Text Dataset Generation".
+This is the repository of th paper "Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation".
 
 <img width="1534" height="1228" alt="image" src="https://github.com/user-attachments/assets/3db63e1b-8b6f-4b19-ba1d-db86815ab943" />
 
