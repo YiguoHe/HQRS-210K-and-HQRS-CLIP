@@ -57,3 +57,8 @@ Baidu Netdisk: https://pan.baidu.com/s/1VjVZtJuEs4ISVSS1ooGi_w?pwd=a393 提取�
 
 ## 5.Training Code
 Our model is trained by **openCLIP**, so the training code is here: [openCLIP GitHub repository](https://github.com/mlfoundations/open_clip).
+
+
+## 6. License
+
+This project is licensed under the **Apache 2.0** license.
