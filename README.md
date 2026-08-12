@@ -1,21 +1,29 @@
-# HQRS-IT-210K-and-HQRS-CLIP
+## HQRS-IT-210K-and-HQRS-CLIP
 
-This is the repository of th paper "Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation".
+This is the official repository of the paper "MpGI: Multi-Perspective Generation and Integration for High-Quality Remote Sensing Image-Text Datasets", which has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) and is now available in Early Access.
 
-<img width="1534" height="1228" alt="image" src="https://github.com/user-attachments/assets/3db63e1b-8b6f-4b19-ba1d-db86815ab943" />
+Paper Update: Our paper has undergone substantial revision during the peer-review process, including changes to the title, abstract, and manuscript content. The current arXiv manuscript corresponds to an earlier version of this work and will be updated with the accepted TGRS version.
 
-<img width="1357" height="853" alt="image" src="https://github.com/user-attachments/assets/a10f6252-040f-49ce-9345-6974a8bfb320" />
+<img width="843" height="1161" alt="7a2ecd79-b3ea-427b-8bcb-4a1e431171d7" src="https://github.com/user-attachments/assets/0c9cf19b-210a-49cd-8f48-50b3914f311b" />
+
+<img width="987" height="512" alt="image" src="https://github.com/user-attachments/assets/e6aba6c8-e2fb-415f-b41a-fd9d15c376c5" />
+
+<img width="1004" height="729" alt="image" src="https://github.com/user-attachments/assets/3c22e1f2-5826-4038-9bb8-90b0a05040c2" />
+
+<img width="987" height="687" alt="image" src="https://github.com/user-attachments/assets/ab3b6ece-5c02-49dd-8ecd-4aac1cd924d4" />
 
 
-<img width="1353" height="1189" alt="image" src="https://github.com/user-attachments/assets/d0e8bc2e-945b-4a97-b6dc-63a875c998b0" />
+Our code, dataset, and models have been released here:
 
-<img width="1377" height="588" alt="image" src="https://github.com/user-attachments/assets/7e2821d5-619c-42fa-a68d-1f52c3eae524" />
+## 1. Paper
 
-Our code, dataset and models have been released here:
+Title: MpGI: Multi-Perspective Generation and Integration for High-Quality Remote Sensing Image-Text Datasets
 
+Published in: IEEE Transactions on Geoscience and Remote Sensing (Early Access)
 
-## 1. paper link
-Our paper link on arxiv:https://arxiv.org/pdf/2507.16716
+DOI: 10.1109/TGRS.2026.3722225
+
+arXiv (earlier version): https://arxiv.org/pdf/2507.16716
 
 ## 2.models
 
