@@ -61,7 +61,15 @@ Captions:
 
 Baidu Netdisk: https://pan.baidu.com/s/1VjVZtJuEs4ISVSS1ooGi_w?pwd=a393 提取码: a393
 
-## 4.Code of retrieval and selo test.
+## 4. Code for Retrieval and Semantic Localization (SELO) Evaluation
+
+For the evaluation of **cross-modal retrieval** and **semantic localization (SELO)**, our implementation follows the evaluation protocols and code from the following open-source repositories:
+
+* **Cross-modal retrieval evaluation:** Our retrieval evaluation is based on the implementation provided by [RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP/blob/main/retrieval.py), which evaluates both image-to-text and text-to-image retrieval using Recall@K metrics.
+
+* **Semantic localization (SELO) evaluation:** Our semantic localization evaluation follows the implementation provided by [RS5M](https://github.com/om-ai-lab/RS5M/blob/main/inference/inference.py).
+
+We sincerely thank the authors of **RemoteCLIP** and **RS5M** for releasing their evaluation code.
 
 ## 5.Training Code
 Our model is trained by **openCLIP**, so the training code is here: [openCLIP GitHub repository](https://github.com/mlfoundations/open_clip).
