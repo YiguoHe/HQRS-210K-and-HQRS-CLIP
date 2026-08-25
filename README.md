@@ -1,6 +1,6 @@
 ## HQRS-IT-210K-and-HQRS-CLIP
 
-This is the official repository of the paper "MpGI: Multi-Perspective Generation and Integration for High-Quality Remote Sensing Image-Text Datasets", which has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) and is now available in Early Access.
+This is the official repository of the paper "MpGI: Multi-Perspective Generation and Integration for High-Quality Remote Sensing Image-Text Datasets", which has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) and is now available in Early Access ( https://ieeexplore.ieee.org/abstract/document/11646842 ).
 
 Paper Update: Our paper has undergone substantial revision during the peer-review process, including changes to the title, abstract, and manuscript content. The current arXiv manuscript corresponds to an earlier version of this work and will be updated with the accepted TGRS version.
 
@@ -20,7 +20,7 @@ Our code, dataset, and models have been released here:
 Title: MpGI: Multi-Perspective Generation and Integration for High-Quality Remote Sensing Image-Text Datasets
 
 Published in: IEEE Transactions on Geoscience and Remote Sensing (Early Access)
-
+https://ieeexplore.ieee.org/abstract/document/11646842
 DOI: 10.1109/TGRS.2026.3722225
 
 arXiv (earlier version): https://arxiv.org/pdf/2507.16716
